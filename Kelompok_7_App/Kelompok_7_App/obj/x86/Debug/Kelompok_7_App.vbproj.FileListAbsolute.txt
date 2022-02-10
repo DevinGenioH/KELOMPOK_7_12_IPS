@@ -8,3 +8,4 @@ C:\Users\pc\Documents\Visual Studio 2010\Projects\Kelompok_7_App\Kelompok_7_App\
 C:\Users\pc\Documents\Visual Studio 2010\Projects\Kelompok_7_App\Kelompok_7_App\obj\x86\Debug\Kelompok_7_App.xml
 C:\Users\pc\Documents\Visual Studio 2010\Projects\Kelompok_7_App\Kelompok_7_App\obj\x86\Debug\Kelompok_7_App.pdb
 C:\Users\pc\Documents\Visual Studio 2010\Projects\Kelompok_7_App\Kelompok_7_App\obj\x86\Debug\Kelompok_7_App.Form2.resources
+C:\Users\pc\Documents\Visual Studio 2010\Projects\Kelompok_7_App\Kelompok_7_App\obj\x86\Debug\Kelompok_7_App.Form3.resources
